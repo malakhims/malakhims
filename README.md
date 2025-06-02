@@ -1,6 +1,10 @@
+[center]
+
 hello i am malaika. i like cute things and keep to myself.
 
-[![](https://ophanimkei.com/images/banner3.webp)
+[https://ophanimkei.com/](https://ophanimkei.com/images/banner3.webp)
+
+[/center]
 
 <!--
 **malakhims/malakhims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
