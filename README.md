@@ -1,6 +1,6 @@
 i have a fondness for cute things. i make various niche things.  
   
-[![](https://ophanimkei.com/images/banner3.webp)(https://ophanimkei.com/)
+[![](https://ophanimkei.com/images/banner3.webp)(https://ophanimkei.com/) 
   
 [my games](https://ophanimkei.itch.io/) 
 
