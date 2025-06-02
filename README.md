@@ -1,10 +1,11 @@
-[center]
+i have a fondness for cute things. i make various niche things.  
+  
+[![](https://ophanimkei.com/)](https://ophanimkei.com/images/banner3.webp)  
+  
+[my games](https://ophanimkei.itch.io/) 
 
-hello i am malaika. i like cute things and keep to myself.
+[![](https://ophanimkei.com/images/omma_button.png)](https://ophanimkei.com/images/omma_button.png) [![](https://ophanimkei.com/images/meatgirl_button.png)](https://ophanimkei.itch.io/meat-girl) [![](https://ophanimkei.com/images/omma_button.png)](https://ophanimkei.com/images/omma_button.png)
 
-[https://ophanimkei.com/](https://ophanimkei.com/images/banner3.webp)
-
-[/center]
 
 <!--
 **malakhims/malakhims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
