@@ -1,4 +1,4 @@
-i have a fondness for cute things. 
+i have a fondness for cute things, and i am prone to headaches. truly sad.
 <!--
 **malakhims/malakhims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
