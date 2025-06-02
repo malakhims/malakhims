@@ -1,10 +1,11 @@
 i have a fondness for cute things. i make various niche things.  
   
-[![](https://ophanimkei.com/)](https://ophanimkei.com/images/banner3.webp)  
+[![(https://ophanimkei.com/images/banner3.webp)](https://ophanimkei.com/)](https://ophanimkei.com/images/banner3.webp)  
   
 [my games](https://ophanimkei.itch.io/) 
 
-[![](https://ophanimkei.com/images/omma_button.png)](https://ophanimkei.com/images/omma_button.png) [![](https://ophanimkei.com/images/meatgirl_button.png)](https://ophanimkei.itch.io/meat-girl) [![](https://ophanimkei.com/images/omma_button.png)](https://ophanimkei.com/images/omma_button.png)
+[![](https://ophanimkei.com/images/meatgirl_button.png)](https://ophanimkei.itch.io/meat-girl) 
+[![](https://ophanimkei.com/images/omma_button.png)](https://ophanimkei.com/images/omma_button.png)
 
 
 <!--
